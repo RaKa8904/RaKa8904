@@ -25,16 +25,17 @@
     <tr>
       <td>
         <div>
-          <span style="color:#7dd3fc;">rahul@github</span>:<span style="color:#86efac;">~</span>$ whoami --verbose
+          <code>rahul@github:~$ whoami --verbose</code>
         </div>
-        <pre>{
-  "engineer": "Rahul Sharma",
-  "status": "Engineering OSINT & real-time threat intelligence at ThreatLens",
-  "philosophy": "Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.",
-  "tech_stack": ["FastAPI", "React", "Node.js", "PostgreSQL", "Python", "TypeScript"],
-  "lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",
-  "coffee_to_code_ratio": "1 : ∞"
-}</pre>
+        <br />
+        <div>{</div>
+        <div>&nbsp;&nbsp;"engineer": "Rahul Sharma",</div>
+        <div>&nbsp;&nbsp;"status": "Engineering OSINT & real-time threat intelligence at ThreatLens",</div>
+        <div>&nbsp;&nbsp;"philosophy": "Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.",</div>
+        <div>&nbsp;&nbsp;"tech_stack": ["FastAPI", "React", "Node.js", "PostgreSQL", "Python", "TypeScript"],</div>
+        <div>&nbsp;&nbsp;"lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",</div>
+        <div>&nbsp;&nbsp;"coffee_to_code_ratio": "1 : ∞"</div>
+        <div>}</div>
       </td>
     </tr>
   </table>
