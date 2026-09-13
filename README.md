@@ -5,7 +5,7 @@
 
 <!-- Dynamic typing header: updates automatically -->
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(OSINT+%2B+Intelligence);Architecting+high-scale+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(OSINT+%2B+Intelligence);Architecting+high-scale+systems;Shipping+production-grade+AI+tools" alt="Typing animation" />
 </a>
 
 <p align="center">
@@ -20,17 +20,25 @@
 
 ### 💻 `whoami --verbose`
 
-```bash
-$ cat ~/.profile.json
-{
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <div>
+          <span style="color:#7dd3fc;">rahul@github</span>:<span style="color:#86efac;">~</span>$ whoami --verbose
+        </div>
+        <pre>{
   "engineer": "Rahul Sharma",
   "status": "Engineering OSINT & real-time threat intelligence at ThreatLens",
   "philosophy": "Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.",
   "tech_stack": ["FastAPI", "React", "Node.js", "PostgreSQL", "Python", "TypeScript"],
   "lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",
   "coffee_to_code_ratio": "1 : ∞"
-}
-```
+}</pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
