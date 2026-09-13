@@ -20,26 +20,15 @@
 
 ### 💻 `whoami --verbose`
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div>
-          <code>rahul@github:~$ whoami --verbose</code>
-        </div>
-        <br />
-        <div>{</div>
-        <div>&nbsp;&nbsp;"engineer": "Rahul Sharma",</div>
-        <div>&nbsp;&nbsp;"status": "Engineering OSINT & real-time threat intelligence at ThreatLens",</div>
-        <div>&nbsp;&nbsp;"philosophy": "Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.",</div>
-        <div>&nbsp;&nbsp;"tech_stack": ["FastAPI", "React", "Node.js", "PostgreSQL", "Python", "TypeScript"],</div>
-        <div>&nbsp;&nbsp;"lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",</div>
-        <div>&nbsp;&nbsp;"coffee_to_code_ratio": "1 : ∞"</div>
-        <div>}</div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 💻 `whoami --verbose`
+
+> **`rahul@github:~$ whoami --verbose`**
+>
+> * **Status:** Engineering OSINT & real-time threat intelligence at **ThreatLens**
+> * **Philosophy:** Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.
+> * **Core Stack:** `FastAPI` • `React` • `Node.js` • `PostgreSQL` • `Python` • `TypeScript`
+> * **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
+> * **Runtime Ratio:** `Coffee : Code` $\rightarrow$ `1 : ∞`
 
 ---
 
@@ -64,5 +53,5 @@
 ### ☕ Daily Dev Sanity Check
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=c9d1d9&qColor=58a6ff&borderColor=30363d" alt="Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=161b22&textColor=f0883e&qColor=79c0ff&borderColor=30363d" alt="Dev Joke" />
 </div>
