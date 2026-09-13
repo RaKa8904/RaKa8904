@@ -5,7 +5,7 @@
 
 <!-- Dynamic typing header: updates automatically -->
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(OSINT+%2B+Intelligence);Architecting+high-throughput+systems;Debugging+code+supervised+by+my+cat;sudo+rm+-rf+/issues/*" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(OSINT+%2B+Intelligence);Architecting+high-scale+systems" />
 </a>
 
 <p align="center">
@@ -29,7 +29,8 @@ $ cat ~/.profile.json
   "tech_stack": ["FastAPI", "React", "Node.js", "PostgreSQL", "Python", "TypeScript"],
   "lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",
   "coffee_to_code_ratio": "1 : ∞"
-}```
+}
+```
 
 ---
 
