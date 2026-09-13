@@ -3,7 +3,6 @@
 # Hey, I'm Rahul 👋
 ### Full-Stack Architect & Applied AI Engineer
 
-<!-- Dynamic typing header: updates automatically -->
 <a href="https://github.com/RaKa8904">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(OSINT+%2B+Intelligence);Architecting+high-scale+systems;Shipping+production-grade+AI+tools" alt="Typing animation" />
 </a>
@@ -26,7 +25,7 @@
 > * **Philosophy:** Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.
 > * **Core Stack:** `FastAPI` • `React` • `Node.js` • `PostgreSQL` • `Python` • `TypeScript`
 > * **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
-> * **Runtime Ratio:** `Coffee : Code` $\rightarrow$ `1 : ∞`
+> * **Runtime Ratio:** `Coffee : Code` ➔ `1 : ∞`
 
 ---
 
@@ -40,16 +39,16 @@
 
 ### 🐱 Senior Code Reviewer in Action
 
-<div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="360" alt="Cat typing fast" style="border-radius: 8px;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaKa8904/RaKa8904/main/cat.gif" onerror="this.onerror=null;this.src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVlMGtzZWFvZnJraTh5djRpa200b3k5NXkyZW45NWNydDdlNmp6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif';" width="320" alt="Cat typing fast" />
   <br />
   <i>"If it compiles on the first try, don't trust it." — Senior QA Cat</i>
-</div>
+</p>
 
 ---
 
-### ☕ Daily Dev Sanity Check
+### ☕ Daily Dev Quote
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=161b22&textColor=f0883e&qColor=79c0ff&borderColor=30363d" alt="Dev Joke" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
