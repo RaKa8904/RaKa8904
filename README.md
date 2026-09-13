@@ -30,3 +30,29 @@ $ cat ~/.profile.json
   "lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",
   "coffee_to_code_ratio": "1 : ∞"
 }
+
+---
+
+### 🛠️ Weaponry & Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,nodejs,postgres,tailwind,docker,git,linux,vite" alt="My Skills" />
+</p>
+
+---
+
+### 🐱 Senior Code Reviewer in Action
+
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="360" alt="Cat typing fast" style="border-radius: 8px;" />
+  <br />
+  <i>"If it compiles on the first try, don't trust it." — Senior QA Cat</i>
+</div>
+
+---
+
+### ☕ Daily Dev Sanity Check
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=c9d1d9&qColor=58a6ff&borderColor=30363d" alt="Dev Joke" />
+</div>
