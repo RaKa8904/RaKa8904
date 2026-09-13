@@ -29,7 +29,7 @@ $ cat ~/.profile.json
   "tech_stack": ["FastAPI", "React", "Node.js", "PostgreSQL", "Python", "TypeScript"],
   "lead_qa_engineer": "My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)",
   "coffee_to_code_ratio": "1 : ∞"
-}
+}```
 
 ---
 
