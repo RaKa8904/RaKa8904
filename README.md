@@ -20,8 +20,6 @@
 
 ### 💻 `whoami --verbose`
 
-### 💻 `whoami --verbose`
-
 > **`rahul@github:~$ whoami --verbose`**
 >
 > * **Status:** Engineering OSINT & real-time threat intelligence at **ThreatLens**
