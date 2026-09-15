@@ -38,7 +38,7 @@
 ### 🐱 Senior Code Reviewer in Action
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Patacake%20patacake%20bakers%20man.gif" width="340" alt="Cat typing furiously" />
+  <img src="https://raw.githubusercontent.com/gist/dumbmoron/ea9b6264e6b6183fd590e322d1afab51/raw/bc064a9116403eab89e5b8200b1aa0890419ec0e/cat.gif" width="340" alt="Cat typing furiously" />
   <br />
   <i>"If it compiles on the first try, don't trust it." — Senior QA Cat</i>
 </p>
