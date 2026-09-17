@@ -4,7 +4,7 @@
 ### Full-Stack Architect & Applied AI Engineer
 
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(OSINT+%2B+Intelligence);Architecting+high-scale+systems;Shipping+production-grade+AI+tools" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Building+ThreatLens+(cybersecurity+%2B+forensics);Architecting+full-stack+platforms;Designing+AI-powered+product+systems;Shipping+production-grade+software" />
 </a>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 💻 `RaKa8904`
 
-* 🔭 **Status:** Engineering OSINT & real-time threat intelligence at **ThreatLens**
+* 🔭 **Status:** Building network security, detection, and forensic intelligence systems at **ThreatLens**
 * ⚙️ **Philosophy:** Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.
 * 🛠️ **Core Stack:** `FastAPI` • `React` • `Node.js` • `PostgreSQL` • `Python` • `TypeScript`
 * 🐾 **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
