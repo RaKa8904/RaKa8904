@@ -4,7 +4,7 @@
 ### Full-Stack Architect & Applied AI Engineer
 
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Building+VaxPass+(cybersecurity+%2B+forensics);Architecting+scalable+systems;Shipping+production+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=Building+VaxPass+(blockchain+%2B+cold-chain);Tracking+vaccine+custody+and+temperature;Creating+privacy-aware+verification+systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,18 +19,34 @@
 
 ### 💻 `RaKa8904`
 
-* 🔭 **Status:** Building VaxPass, a cybersecurity, detection, and forensic intelligence system
-* ⚙️ **Philosophy:** Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.
-* 🛠️ **Core Stack:** `FastAPI` • `React` • `Node.js` • `PostgreSQL` • `Python` • `TypeScript`
+* 🔭 **Current Project:** Building **VaxPass**, a blockchain-based cold-chain vaccine passport
+* 💉 **What it does:** Tracks vaccine batch custody, temperature readings, temperature-aware effective expiry, recalls, and privacy-preserving dose administration
+* ⛓️ **Blockchain:** Smart contracts on Solidity with Hardhat, OpenZeppelin AccessControl, and Ethereum-compatible networks
+* 📱 **Verification:** Public QR-based batch verification that works without requiring a wallet
+* 🧪 **Testing & Demo:** Local Hardhat network with simulated normal, spike, and breach temperature conditions
+* 🛠️ **Core Stack:** `Solidity` • `Hardhat` • `JavaScript` • `HTML` • `CSS` • `ethers.js` • `MetaMask`
 * 🐾 **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
 * ☕ **Runtime Ratio:** `Coffee : Code` ➔ `1 : ∞`
+
+---
+
+### 🧊 VaxPass Highlights
+
+- **End-to-end custody tracking:** Manufacturer → Distributor → Clinic
+- **Temperature-aware expiry:** Excursions reduce effective expiry automatically
+- **Automatic spoilage detection:** Unsafe temperature breaches mark batches as `SPOILED`
+- **Batch passport QR codes:** Scan a passport to open public verification
+- **Privacy-aware records:** Patient identifiers are hashed before being recorded on-chain
+- **Role-based access:** Regulator, manufacturer, distributor, clinic, and temperature logger roles
+- **Recall enforcement:** Recalled batches block later actions through the smart contract
+- **Analytics dashboard:** Live network totals, batch outcomes, and activity tracking
 
 ---
 
 ### 🛠️ Weaponry & Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,nodejs,postgres,tailwind,docker,git,linux,vite" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=solidity,javascript,html,css,nodejs,git,github,hardhat" alt="VaxPass technology stack" />
 </p>
 
 ---
