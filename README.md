@@ -20,26 +20,9 @@
 ### 💻 `RaKa8904`
 
 * 🔭 **Current Project:** Building **VaxPass**, a blockchain-based cold-chain vaccine passport
-* 💉 **What it does:** Tracks vaccine batch custody, temperature readings, temperature-aware effective expiry, recalls, and privacy-preserving dose administration
-* ⛓️ **Blockchain:** Smart contracts on Solidity with Hardhat, OpenZeppelin AccessControl, and Ethereum-compatible networks
-* 📱 **Verification:** Public QR-based batch verification that works without requiring a wallet
-* 🧪 **Testing & Demo:** Local Hardhat network with simulated normal, spike, and breach temperature conditions
 * 🛠️ **Core Stack:** `Solidity` • `Hardhat` • `JavaScript` • `HTML` • `CSS` • `ethers.js` • `MetaMask`
 * 🐾 **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
 * ☕ **Runtime Ratio:** `Coffee : Code` ➔ `1 : ∞`
-
----
-
-### 🧊 VaxPass Highlights
-
-- **End-to-end custody tracking:** Manufacturer → Distributor → Clinic
-- **Temperature-aware expiry:** Excursions reduce effective expiry automatically
-- **Automatic spoilage detection:** Unsafe temperature breaches mark batches as `SPOILED`
-- **Batch passport QR codes:** Scan a passport to open public verification
-- **Privacy-aware records:** Patient identifiers are hashed before being recorded on-chain
-- **Role-based access:** Regulator, manufacturer, distributor, clinic, and temperature logger roles
-- **Recall enforcement:** Recalled batches block later actions through the smart contract
-- **Analytics dashboard:** Live network totals, batch outcomes, and activity tracking
 
 ---
 
