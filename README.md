@@ -4,7 +4,7 @@
 ### Full-Stack Architect & Applied AI Engineer
 
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Building+ThreatLens+(cybersecurity+%2B+forensics);Architecting+scalable+systems;Applied+AI+Engineer" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Building+VaxPass+(cybersecurity+%2B+forensics);Architecting+scalable+systems;Shipping+production+software" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 💻 `RaKa8904`
 
-* 🔭 **Status:** Building network security, detection, and forensic intelligence systems at **ThreatLens**
+* 🔭 **Status:** Building VaxPass, a cybersecurity, detection, and forensic intelligence system
 * ⚙️ **Philosophy:** Domain-agnostic systems builder. If it scales and solves real pain, I'll build it.
 * 🛠️ **Core Stack:** `FastAPI` • `React` • `Node.js` • `PostgreSQL` • `Python` • `TypeScript`
 * 🐾 **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
