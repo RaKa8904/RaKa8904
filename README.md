@@ -4,7 +4,7 @@
 ### Full-Stack Architect & Applied AI Engineer
 
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=Building+VaxPass+(blockchain+%2B+cold-chain);Tracking+vaccine+custody+and+temperature;Creating+privacy-aware+verification+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=Building+VaxPass+(blockchain+%2B+cold-chain);Tracking+vaccines+from+lab+to+patient" />
 </a>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 💻 `RaKa8904`
 
-* 🔭 **Current Project:** Building **VaxPass**, a blockchain-based cold-chain vaccine passport
+* 🔭 **Current Projects:** Working simultaneously on **VaxPass**, a blockchain-based cold-chain vaccine passport, and **LexAura**
 * 🛠️ **Core Stack:** `Solidity` • `Hardhat` • `JavaScript` • `HTML` • `CSS` • `ethers.js` • `MetaMask`
 * 🐾 **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
 * ☕ **Runtime Ratio:** `Coffee : Code` ➔ `1 : ∞`
