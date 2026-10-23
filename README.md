@@ -4,7 +4,7 @@
 ### Full-Stack Architect & Applied AI Engineer
 
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=Building+VaxPass+(blockchain+%2B+cold-chain);Tracking+vaccines+from+lab+to+patient" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=Building+VaxPass+(blockchain+%2B+cold-chain);Building+LexAura;Tracking+vaccines+from+lab+to+patient" />
 </a>
 
 <p align="center">
