@@ -4,7 +4,7 @@
 ### Full-Stack Architect & Applied AI Engineer
 
 <a href="https://github.com/RaKa8904">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=Working+on+Threatlens,+a+threat+detection+%26+live+forensic+intelligence+platform." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=900&lines=I%27m+working+on+Threatlens;A+threat+detection+and+live+forensic+intelligence+platform." />
 </a>
 
 <p align="center">
