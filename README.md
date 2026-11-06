@@ -19,8 +19,8 @@
 
 ### 💻 `RaKa8904`
 
-* 🔭 **Current Projects:** Working simultaneously on **VaxPass**, a blockchain-based cold-chain vaccine passport, and **LexAura**
-* 🛠️ **Core Stack:** `Solidity` • `Hardhat` • `JavaScript` • `HTML` • `CSS` • `ethers.js` • `MetaMask`
+* 🔭 **Current Projects:** Working on **Threatlens**, a threat detection & live forensic intelligence platform.
+* 🛠️ **Core Stack:** `Python` • `FastAPI` • `JavaScript` • `HTML` • `CSS` • `RedPanda` • `Docker`
 * 🐾 **Lead QA Engineer:** My cat (strict code reviewer; rejects PRs by sleeping on the keyboard)
 * ☕ **Runtime Ratio:** `Coffee : Code` ➔ `1 : ∞`
 
